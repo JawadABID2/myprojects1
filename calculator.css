@@ -2,7 +2,7 @@
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f2f2f2;
+    background-color: hsl(263, 91%, 35%);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -29,7 +29,7 @@
     margin: 5px;
     border: none;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #e21414;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
